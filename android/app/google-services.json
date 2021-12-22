@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344744952335",
+    "project_id": "foodozers",
+    "storage_bucket": "foodozers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344744952335:android:bfdde54afaa661ccaed97a",
+        "android_client_info": {
+          "package_name": "com.example.hungry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344744952335-6a7qnp917n541776ijvscdm6fui6m6ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hungry",
+            "certificate_hash": "09b2eee061a23fb05032901ba3435c9c0a1a3006"
+          }
+        },
+        {
+          "client_id": "344744952335-epbc3bfojev8pqk529rdmplikoscti46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76MFaS-M1YZNTDSBhiuomfxc5fY9VJPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344744952335-epbc3bfojev8pqk529rdmplikoscti46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
